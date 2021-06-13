@@ -27,7 +27,7 @@
 * Home 
 
 * About Internet
-  - What is Internet
+  - What is the Internet
   - Invention of Internet
   - The Early Internet
 
@@ -41,22 +41,17 @@
 
 ## 4. Page 1 
   * ### Menu Link
-    - What is Internet
-    - Invention of Internet
-    - The Early Internet
-  
+     Link to the content of the page "What is the Internet"
   * ### Page Title
      *About the Internet*
   * ### Description
   * ### Keywords
   * ### Page Layout
   * ### Page Content
-
-## 5. Sidebar Content
-
-## 6. Sidebar Image
-
-## 7. Page Image
+     [What is the Internet](https://github.com/jasneekchugh/IS601-WSD/blob/main/What%20is%20the%20Internet.pdf)
+  * ### Sidebar Content
+  * ### Sidebar Image
+  * ### Page Image
 
 ### 8. Page 2
 
