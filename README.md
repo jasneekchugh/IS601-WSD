@@ -140,4 +140,10 @@
 
 ## 10. About Page
 
-
+   This website is made for the IS 601- Web System Development course at New Jersey Institute of Technology. In this class i have learned how to develop a web-based system through this intensive hands-on project. This project has helped me in applying real-world problem-solving skills that meets the challange of developing a web-based information system. <br/ >
+   I have also learned the basic pronciples of web-based applications, object oriented design patterns, MVC application design, working on Docker containerized images and much more.
+  
+  
+  ![Web-System-Development](https://www.pixelflowdesign.com/wp-content/uploads/2014/10/patra-web-icons-web-development.png)
+   
+   
