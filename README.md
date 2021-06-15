@@ -126,7 +126,7 @@
   * ### Page Layout
   
   * ### Page Content
-     [Growth of the Internet](https://github.com/jasneekchugh/IS601-WSD/blob/main/What%20is%20the%20Internet.pdf)
+     [Growth of the Internet](https://github.com/jasneekchugh/IS601-WSD/blob/main/The%20Growth%20of%20the%20Internet.pdf)
      
   * ### Sidebar Content
   
