@@ -57,12 +57,15 @@
    
 ## 4. Page 1 
   * ### Menu Link
-     Link to the content of the page "What is the Internet"
+     
+     [Link](https://github.com/jasneekchugh/IS601-WSD/blob/main/What%20is%20the%20Internet.pdf) to the content of the page "What is the Internet"
+     
   * ### Page Title
      *About the Internet*
   * ### Description
   * ### Keywords
   * ### Page Layout
+      For page 1 **F-layout** is used since this page is dense with content. The titles will be bold. And there will be content mostly in vertical direction.
   * ### Page Content
      [What is the Internet](https://github.com/jasneekchugh/IS601-WSD/blob/main/What%20is%20the%20Internet.pdf)
   * ### Sidebar Content
@@ -73,7 +76,8 @@
 
 ## 5. Page 2
   * ### Menu Link
-     Link to the content of the page "What is the Internet"
+     [Link](https://github.com/jasneekchugh/IS601-WSD/blob/main/The%20Invention%20of%20the%20Internet.pdf) to the content of the page "Invention of the Internet"
+     
   * ### Page Title
      *Invention of Internet*
      
@@ -82,6 +86,8 @@
   * ### Keywords
   
   * ### Page Layout
+  
+      For page 2 **F-layout** is used since this page is dense with content. The titles will be bold. And there will be content mostly in vertical direction.
   
   * ### Page Content
      [Invention of Internet](https://github.com/jasneekchugh/IS601-WSD/blob/main/The%20Invention%20of%20the%20Internet.pdf)
@@ -94,7 +100,7 @@
  
 ## 6. Page 3
   * ### Menu Link
-     Link to the content of the page "The Early Internet"
+     [Link](https://github.com/jasneekchugh/IS601-WSD/blob/main/The%20Early%20Internet.pdf) to the content of the page "The Early Internet"
     
   * ### Page Title
      *The Early Internet*
@@ -105,6 +111,8 @@
   
   * ### Page Layout
   
+      For page 3 **F-layout** is used since this page is dense with content. The titles will be bold. And there will be content mostly in vertical direction.
+      
   * ### Page Content
      [The Early Internet](https://github.com/jasneekchugh/IS601-WSD/blob/main/The%20Early%20Internet.pdf)
      
@@ -116,7 +124,7 @@
  
 ## 7. Page 4
   * ### Menu Link
-     Link to the content of the page "Growth of the Internet"
+     [Link](https://github.com/jasneekchugh/IS601-WSD/blob/main/The%20Growth%20of%20the%20Internet.pdf) to the content of the page "Growth of the Internet"
   * ### Page Title
      *Growth of the Internet*
   * ### Description
@@ -124,7 +132,9 @@
   * ### Keywords
   
   * ### Page Layout
-  
+      
+      For page 4 **F-layout** is used since this page is dense with content. The titles will be bold. And there will be content mostly in vertical direction.
+      
   * ### Page Content
      [Growth of the Internet](https://github.com/jasneekchugh/IS601-WSD/blob/main/The%20Growth%20of%20the%20Internet.pdf)
      
